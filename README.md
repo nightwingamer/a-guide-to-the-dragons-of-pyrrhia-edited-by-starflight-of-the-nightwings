@@ -1,6 +1,5 @@
 # a-guide-to-the-dragons-of-pyrrhia-edited-by-starflight-of-the-nightwings
 
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -29,5 +28,4 @@
     leafwings
     description: green of all shades with leaf shaped wings have much knowlege on the poision jungle. queen hazel because Since queen Sequoia is currently under the control of the othermind<p>
     
-  </body>
-</html>
+
